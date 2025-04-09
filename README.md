@@ -1,3 +1,3 @@
-# cafe-template
+# juice-website OPAN-6541
 
-Visit <https://emmanuelabajo.github.io/cafe-template/> to view
+Visit <https://re305-7.github.io/juice-shop> to view
